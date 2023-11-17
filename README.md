@@ -1,2 +1,2 @@
-# Vaccine-Tweets-Sentiment-Analysis
+# Vaccine-Tweets-Sentiment-Analysis :syringe:
 Vaccine Tweets sentiment analysis
