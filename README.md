@@ -5,7 +5,7 @@ The development and distribution of vaccines have become pivotal milestones in o
 
 ## Dataset
 - The dataset includes **11020 rows** and **17 columns**. The data type includes a mix of **textual** data, **categorical** data, and **numerical** data.
-- More info about the dataset can be found [here](htt17 columnsps://www.kaggle.com/datasets/gpreda/pfizer-vaccine-tweets/data).
+- More info about the dataset can be found [here](https://www.kaggle.com/datasets/gpreda/pfizer-vaccine-tweets/data).
 
 ## System Architecture
 ![Drawing4 (2)](https://github.com/aungkhantmyat/Vaccine-Tweets-Sentiment-Analysis/assets/48421405/fad4dd96-a224-421e-9128-f38622401076)
