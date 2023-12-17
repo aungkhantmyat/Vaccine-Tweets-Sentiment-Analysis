@@ -1,14 +1,13 @@
 # Vaccine-Tweets-Sentiment-Analysis :syringe:
 
 ## Brief
-The development and distribution of vaccines have become pivotal milestones in our collective journey toward normalcy in an era defined by the COVID-19 pandemic. Tweets become an important real-time hub for public discourse as COVID-19 vaccine discussions unfold across different platforms. With Natural Language Processing (NLP) and data analysis, our project explores this vast and dynamic landscape of Twitter for insights and sentiment patterns related to COVID-19 vaccinations. Sentiment analysis, often referred to as opinion mining, is a technique within natural language processing (NLP) that focuses on deciphering the emotional tone or sentiment expressed in textual data.
+The development and distribution of vaccines have become pivotal milestones in our collective journey toward normalcy in an era defined by the COVID-19 pandemic. Tweets become an important real-time hub for public discourse as COVID-19 vaccine discussions unfold across different platforms. With Natural Language Processing (NLP) and data analysis, our project explores this vast and dynamic landscape of Twitter for insights and sentiment patterns related to COVID-19 vaccinations. Sentiment analysis, often referred to as opinion mining, is a technique within natural language processing (NLP) that focuses on deciphering the emotional tone or sentiment expressed in textual data.\
 
 ## Dataset
 - The dataset includes **11020 rows** and **17 columns**. The data type includes a mix of **textual** data, **categorical** data, and **numerical** data.
 - More info about the dataset can be found [here](htt17 columnsps://www.kaggle.com/datasets/gpreda/pfizer-vaccine-tweets/data).
 
 ## System Architecture
-
 ![Drawing4 (2)](https://github.com/aungkhantmyat/Vaccine-Tweets-Sentiment-Analysis/assets/48421405/fad4dd96-a224-421e-9128-f38622401076)
 
 ## Step By Step Approach
